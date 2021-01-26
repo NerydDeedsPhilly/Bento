@@ -45,10 +45,3 @@ if (hour >= 19 || hour < 5) {
     disableDark();
 }
 */
-
-var name = "ProfessorDaddySir";
-const gree1 = "Go to Sleep!  ";
-const gree2 = "Good morning!  ";
-const gree3 = "Good afternoon  ";
-const gree4 = "Good evening,  ";
-
